@@ -15,5 +15,5 @@ TinyLlama-1.1B-Chat-v1.0
 ## Fine-Tuning
 
 LoRA Fine-Tuning
-100 Samples
+5000 Samples
 1 Epoch
